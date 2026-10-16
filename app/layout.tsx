@@ -3,8 +3,8 @@ import type { Metadata, Viewport } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
+  title: 'Sentinel AI | Predictive Maintenance',
+  description: 'AI-powered predictive maintenance monitoring for connected industrial assets.',
   generator: 'v0.app',
   icons: {
     icon: [
